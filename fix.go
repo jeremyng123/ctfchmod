@@ -1,6 +1,3 @@
-//go:build caddy
-// +build caddy
-
 package ctfchmod
 
 import (
